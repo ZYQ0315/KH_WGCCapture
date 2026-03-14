@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="KH_WGCCapture.vcxproj" Id="5390eb3d-6f97-48b7-8de1-10385cbb4379" />
+</Solution>
