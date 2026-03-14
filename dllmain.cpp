@@ -492,7 +492,7 @@ extern "C"
         return 1;
     }
 
-    __declspec(dllexport) int __stdcall WGC_GetFrameCenter(unsigned char* buffer, int cropSize)
+    __declspec(dllexport) int __stdcall WGC_GetFrameCenter(unsigned char* buffer, int cropSize) 
     {
         if (!g_initialized || !g_newFrame) return 0;
 
